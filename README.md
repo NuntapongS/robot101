@@ -17,4 +17,5 @@
 
 ## Run Tests
 
+- cd folder Automation
 - robot ${file}
